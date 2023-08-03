@@ -5,19 +5,19 @@ window.getDeveloperInfo =(code)=> {
         <p style="color: black">surname: Shahinyan</p>
         <p style="color: black">
             Facebook:
-            <a href="https://www.facebook.com" target="_blank">
+            <a href="https://www.facebook.com/shahe.shahinyan?mibextid=ZbWKwL" target="_blank">
                 Some Link
             </a>
         </p>
         <p style="color: black">
             Instagram:
-            <a href="https://www.facebook.com" target="_blank">
+            <a href="https://instagram.com/shahinyan_11?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D" target="_blank">
                 Some Link
             </a>
         </p>
         <p style="color: black">
             Linkedin:
-            <a href="https://www.facebook.com" target="_blank">
+            <a href="https://www.linkedin.com/in/shahe-shahinyan-18367a218" target="_blank">
                 Some Link
             </a>
         </p>
@@ -29,7 +29,7 @@ window.getDeveloperInfo =(code)=> {
         </p >
         <p style="color: black">
             Telegram:
-            <a href="https://www.facebook.com" target="_blank">
+            <a href="https://t.me/shahinyan11" target="_blank">
                 Some Link
             </a>
         </p>
