@@ -1,4 +1,4 @@
-function getDeveloperInfo(code) {
+window.getDeveloperInfo =(code)=> {
   if (code === 1111) {
     const content = `
         <p style="color: black">name: Shahe</p>
